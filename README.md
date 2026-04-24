@@ -4,7 +4,7 @@
 1. Make sure Python is installed
 2. Place dictionary.txt in the same folder
 3. Run:
-   python main.py
+   python autoCompSys.py
 
 ## Input
 User enters a prefix
